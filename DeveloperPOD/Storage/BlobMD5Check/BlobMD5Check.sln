@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlobMD5Check", "BlobMD5Check\BlobMD5Check.csproj", "{AFB9246B-12DF-4DDE-8194-A0B646622E15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB9246B-12DF-4DDE-8194-A0B646622E15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFB9246B-12DF-4DDE-8194-A0B646622E15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFB9246B-12DF-4DDE-8194-A0B646622E15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFB9246B-12DF-4DDE-8194-A0B646622E15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B182299-8920-4BA6-91E4-C535A6B307F6}
+	EndGlobalSection
+EndGlobal
